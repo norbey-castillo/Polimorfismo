@@ -7,11 +7,13 @@ public class main {
 		Figura Rectangulo = new Rectangulo();
 		Empleado Vendedor = new Vendedor("Norbey", 850);
 		Cuenta CuentaAhorro = new CuentaAhorro(5800, 10 );
+		Transporte Avion = new Avion();
 		
 		Perro.hacerSonido();
 		Rectangulo.area(8,5);
 		Vendedor.resumen();
 		CuentaAhorro.depositar(350);
+		Avion.moverse();
 		
 	}
 }
