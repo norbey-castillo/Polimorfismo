@@ -10,6 +10,8 @@ public class main {
 		Transporte Avion = new Avion();
 		Persona Estudiante = new Estudiante("Oscar","Gonzalez",20,"0905-25-9175","Ingenieria en sistemas");
 		Vehiculo Motocicleta = new Motocicleta();
+		Producto Producto = new ProductoDigital("Azucar",5,"Sin endulzantes artificiales");
+		
 		
 		Perro.hacerSonido();
 		Rectangulo.area(5, 5);
@@ -18,6 +20,7 @@ public class main {
 		Avion.moverse();
 		Estudiante.presentarse();
 		Motocicleta.encender();
+		Producto.MostrarDescripcion();
 		
 		
 	}
