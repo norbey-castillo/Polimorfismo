@@ -11,6 +11,7 @@ public class main {
 		Persona Estudiante = new Estudiante("Oscar","Gonzalez",20,"0905-25-9175","Ingenieria en sistemas");
 		Vehiculo Motocicleta = new Motocicleta();
 		Producto Producto = new ProductoDigital("Azucar",5,"Sin endulzantes artificiales");
+		Instrumento Guitarra = new Guitarra();
 		
 		
 		Perro.hacerSonido();
@@ -21,6 +22,7 @@ public class main {
 		Estudiante.presentarse();
 		Motocicleta.encender();
 		Producto.MostrarDescripcion();
+		Guitarra.tocar();
 		
 		
 	}
