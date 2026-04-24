@@ -9,7 +9,7 @@ public class main {
 		Cuenta CuentaAhorro = new CuentaAhorro(5800, 10 );
 		Transporte Avion = new Avion();
 		Persona Estudiante = new Estudiante("Oscar","Gonzalez",20,"0905-25-9175","Ingenieria en sistemas");
-	
+		Vehiculo Motocicleta = new Motocicleta();
 		
 		Perro.hacerSonido();
 		Rectangulo.area(5, 5);
@@ -17,6 +17,7 @@ public class main {
 		CuentaAhorro.depositar(350);
 		Avion.moverse();
 		Estudiante.presentarse();
+		Motocicleta.encender();
 		
 		
 	}
