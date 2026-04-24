@@ -36,5 +36,7 @@ public class Estudiante extends Persona{
 	}
 	
 	
+	/*SE SOBREESCRIBIO ESTE METODO PARA AGREGAR LA CARRERA Y EL CARNET DEL ESTUDIANTE ASIGNADO*/
+	
 
 }

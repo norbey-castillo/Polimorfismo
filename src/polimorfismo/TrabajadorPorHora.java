@@ -20,4 +20,6 @@ public class TrabajadorPorHora extends Trabajador {
 		return 0;
 	}
 
+	/*ESTE METODO FUE SOBREESCRITO PARA IMPRIMIR EL TOTA  POR SEMANA, POR MES Y POR DIA TRABAJARO CALCULADO POR MEDIO DE LAS HORAS*/
+	
 }

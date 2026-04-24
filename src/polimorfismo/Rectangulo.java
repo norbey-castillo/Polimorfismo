@@ -9,5 +9,6 @@ public class Rectangulo extends Figura{
 		
 	}
 	
+	/*SE SOBREESCRIBIO ESTE METODO PARA VALIDAR CUAL ES EL AREA DEL RECTANGULO INGRESADO*/
 
 }

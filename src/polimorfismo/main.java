@@ -29,3 +29,13 @@ public class main {
 		
 	}
 }
+
+/*¿COMO APLIQUE LA HERENCIA?
+ * 
+ * La herencia la aplique en todos los ejercicios a la hora de implementar una clase padre
+ * que le pudiera heredar atributos o en algunos casos metodos a las clases hijas, dando asi
+ * herencia aplicada a cada ejercicio... 
+ * 
+ * juntamente se aplico el polimorfismo para referenciar
+ * a la clase padre cuando se quiere usar una clase hija que hereda atributos o metodos de la
+ * clase padre. */

@@ -18,7 +18,7 @@ public class ProductoDigital extends Producto{
 	}
 	
 	
-	
+	/*SE SOBREESCRIBIO ESTE METODO PARA AGREGAR LA DESCRIPCION DEL PRODUCTO */
 	
 
 }

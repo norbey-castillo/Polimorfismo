@@ -23,6 +23,7 @@ public class Vendedor extends Empleado{
 	}
 	
 	
-	
+	/*SE SOBREESCRIBIO ESTE METODO PARA AGREGAR LA COMISION QUE SE LE DARA
+	 * AL VENDEDOR*/
 
 }

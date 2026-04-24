@@ -7,6 +7,6 @@ public class Motocicleta extends Vehiculo {
 		System.out.println("\nLa motocicleta puede encender! ");
 	}
 	
-	
+/*SE SOBREESCRIBIO ESTE METODO PARA EFECTUAR QUE LA MOTOCICLETA EFECTIVAMENTE PUEDE ENCENDER*/	
 
 }

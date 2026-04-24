@@ -7,5 +7,5 @@ public class Perro extends Animal{
 		System.out.println("El perro ladra! ");
 		
 	}
-
+/*ESTE METODO SE SOBREESCRIBIO PARA IDENTIFICAR QUE EL PERRO EFECTIVAMENTE PUEDE LADRAR*/
 }
