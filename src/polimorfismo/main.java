@@ -12,6 +12,7 @@ public class main {
 		Vehiculo Motocicleta = new Motocicleta();
 		Producto Producto = new ProductoDigital("Azucar",5,"Sin endulzantes artificiales");
 		Instrumento Guitarra = new Guitarra();
+		Trabajador TrabajadorPorHora = new TrabajadorPorHora();
 		
 		
 		Perro.hacerSonido();
@@ -23,6 +24,7 @@ public class main {
 		Motocicleta.encender();
 		Producto.MostrarDescripcion();
 		Guitarra.tocar();
+		TrabajadorPorHora.calcularPago(5);
 		
 		
 	}
